@@ -1,6 +1,4 @@
-![Banner](https://github.com/kartikmehta8/systemctl-gui-client/assets/77505989/9869d6a5-8906-43d7-81b9-b2fa7d616030)
-
-### systemctl gui client
+## systemctl gui client
 
 <p align="center">
   <img src="https://github.com/kartikmehta8/systemctl-gui-client/assets/77505989/4eb0d7f0-38bb-4777-a2cf-b23ee0ecfb06" />
